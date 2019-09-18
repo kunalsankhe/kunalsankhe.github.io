@@ -7,10 +7,14 @@ author_profile: true
 ## Conference Publications
 
 
-<b>[Impairment Shift Keying: Covert Signaling by Deep Learning of Controlled Radio Imperfections](http://lantaoyu.com/publications/GanGradient)</b> <br>
+<b>[Impairment Shift Keying: Covert Signaling by Deep Learning of Controlled Radio Imperfections](http://kunalsankhe.com/publications/GanGradient)</b> <br>
 <b>Kunal Sankhe</b>, Francesco Restuccia, Salvatore D'Oro, Tong Jian,  Zifeng Wang, Amani Al-Shawabka,
 Jennifer Dy, Tommaso Melodia, Stratis Ioannidis, and Kaushik Roy Chowdhury <br>
 <i>IEEE MILCOM'19</i>, Virginia, USA, November 2019. 
+
+<b>[Deep Reinforcement Learning based Traffic- and Channel-aware OFDMA Resource Allocation](http://lantaoyu.com/publications/GanGradient)</b> <br>
+Ravikumar Balakrishnan, <b>Kunal Sankhe</b>, V Srinivasa Somayazulu, Rath Vannithamby, Jerry Sydir, <br>
+<i>IEEE GLOBECOM'19</i>, Hawaii, USA, November 2019.
 
 <b>[Spectrum Awareness at the Edge: Modulation Classification using Smartphones](http://lantaoyu.com/publications/GanGradient)</b> <br>
 Nasim Soltani, <b> Kunal Sankhe </b>, Stratis Ioannidis, Dheryta Jaisinghani, and Kaushik Chowdhury <br>
@@ -22,11 +26,11 @@ Nasim Soltani, <b> Kunal Sankhe </b>, Stratis Ioannidis, Dheryta Jaisinghani, an
 
 <b>[Talking When No One is Listening: Piggybacking City-scale IoT Control Signals Over LTE](http://lantaoyu.com/publications/GanGradient)</b> <br>
 <b>Kunal Sankhe</b>, Ufuk Muncuk, M. Yousof Naderi, and Kaushik Roy Chowdhury <br>
-<i>IEEE INFOCOM'18</i>, Honolulu, Hawaii, April 2018.
+<i>IEEE INFOCOM'18</i>, Honolulu, Hawaii, USA, April 2018.
 
 <b>[Making the Right Connections: Multi-AP Association and Flow Control in 60GHz Band](http://lantaoyu.com/publications/SeqGAN)</b> <br>
 Fan Zhou, M. Yousof Naderi, <b>Kunal Sankhe</b>, and Kaushik Roy Chowdhury <br>
-<i>IEEE INFOCOM'18</i>, Honolulu, Hawaii, April 2018.
+<i>IEEE INFOCOM'18</i>, Honolulu, Hawaii, USA, April 2018.
 
 <b>[Machine Learning Based Cooperative Relay Selection in Virtual MIMO](http://lantaoyu.com/publications/SeqGAN)</b> <br>
 <b> Kunal Sankhe </b>, Chandan Pradhan, Sumit Kumar, and Garimella Ramamurthy <br>
