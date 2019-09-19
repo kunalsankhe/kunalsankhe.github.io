@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://kunalsankhe.github.io/files/kunalsankhe_bio.png?raw=true" alt="Photo" style="width: 100px;"/> 
+  <img src="https://kunalsankhe.github.io/files/kunalsankhe_bio.png?raw=true" alt="Photo" style="width: 200px;"/> 
 </p>
 
 * I am a Ph.D student in the [Electrical and Computer Engineering Department](http://www.ece.neu.edu/) at Northeastern University, where I work in the [Next GEneration NEtworks and SYStems Lab](http://www.genesys-lab.org/) advised by Prof. [Kaushik Chowdhury](http://krc.coe.neu.edu/). 
