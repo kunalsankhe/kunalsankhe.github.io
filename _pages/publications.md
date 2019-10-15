@@ -22,8 +22,8 @@ Nasim Soltani, <b> Kunal Sankhe </b>, Stratis Ioannidis, Dheryta Jaisinghani, an
 
 <b>[ORACLE: Optimized Radio clAssification through Convolutional neuraL nEtworks](http://lantaoyu.com/publications/GanGradient)</b> <br>
 <b>Kunal Sankhe</b>, Mauro Belgiovine, Fan Zhou, Shamnaz Mohammed Riyaz, Stratis Ioannidis, and Kaushik Roy Chowdhury <br>
-<i>IEEE INFOCOM'19</i>, Paris, France, May 2019. 
-[Dataset](http://www.genesys-lab.org/oracle)
+<i>IEEE INFOCOM'19</i>, Paris, France, May 2019. <br>
+<b>[Dataset](http://www.genesys-lab.org/oracle)</b>
 
 <b>[Talking When No One is Listening: Piggybacking City-scale IoT Control Signals Over LTE](http://lantaoyu.com/publications/GanGradient)</b> <br>
 <b>Kunal Sankhe</b>, Ufuk Muncuk, M. Yousof Naderi, and Kaushik Roy Chowdhury <br>
