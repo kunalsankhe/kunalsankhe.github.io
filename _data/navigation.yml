@@ -1,7 +1,6 @@
 # main links links
 main:
-  - title: "CV/Bio"
-    url: /cv/
+  
 
   - title: "Publications"
     url: /publications/
@@ -18,8 +17,11 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blogs"
-    url: /year-archive/
+  #- title: "Blogs"
+  #  url: /year-archive/
+  
+  - title: "CV/Bio"
+    url: /cv/
     
   - title: "Contact"
     url: /contact/  
