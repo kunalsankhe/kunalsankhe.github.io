@@ -21,5 +21,5 @@ redirect_from:
 
 
 # Recent News
-* November 30, 2018. Our [paper](http://lantaoyu.com/publications/RLSGAAAI19) got accepted in INFOCOM 2019.
+* September 30, 2019. We have released testbed dataset for Radio Fingerprinting of 16 USRP X310 radios. [Link](http://www.genesys-lab.org/oracle) 
 
