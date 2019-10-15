@@ -53,6 +53,11 @@ Chandan Pradhan, <b> Kunal Sankhe </b>, Sumit Kumar, and Garimella Ramamurthy <b
 <i>IEEE WOCN'14</i>, Hyderabad, India, September 2014.
 
 ## Journal/Magazine Publications
+<b>[No Radio Left Behind: Radio Fingerprinting Through Deep Learning of Physical-Layer Hardware Impairments](http://lantaoyu.com/publications/RLSGAAAI19)</b><br>
+<b>Kunal Sankhe </b>, Mauro Belgiovine, Fan Zhou, Luca Angioloni, Francesco Restuccia, Salvatore D’Oro,
+Tommaso Melodia, Stratis Ioannidis, and Kaushik Chowdhury <br>
+<i>IEEE Transactions on Cognitive Communications and Networking</i>, Special Issue: Evolution of Cognitive Radio to AI-enabled Radio and Networks.
+
 
 <b>[Deep Learning Convolutional Neural Networks for Radio Identification](http://lantaoyu.com/publications/RLSGAAAI19)</b><br>
 Shamnaz Riyaz, <b>Kunal Sankhe </b>, Stratis Ioannidis, and Kaushik Chowdhury <br>
