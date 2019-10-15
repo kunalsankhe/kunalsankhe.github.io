@@ -35,23 +35,23 @@ Fan Zhou, M. Yousof Naderi, <b>Kunal Sankhe</b>, and Kaushik Roy Chowdhury <br>
 
 <b>Machine Learning Based Cooperative Relay Selection in Virtual MIMO</b> <br>
 <b> Kunal Sankhe </b>, Chandan Pradhan, Sumit Kumar, and Garimella Ramamurthy <br>
-<i>IEEE WTS'15</i>, New York, USA, April 2015. <b>[PDF]()</b>
+<i>IEEE WTS'15</i>, New York, USA, April 2015. <b>[PDF](https://arxiv.org/abs/1506.01910)</b>
 
 <b>Full-Duplex eNodeB and UE Design for 5G Networks</b> <br>
 Chandan Pradhan, <b> Kunal Sankhe </b>, Sumit Kumar, and Garimella Ramamurthy <br>
-<i>IEEE WTS'15</i>, New York, USA, April 2015. <b>[PDF]()</b>
+<i>IEEE WTS'15</i>, New York, USA, April 2015. <b>[PDF](https://arxiv.org/abs/1506.02132)</b>
 
 <b>Revamp of eNodeB for 5G Networks: Detracting Spectrum Scarcity</b> <br>
 Chandan Pradhan, <b> Kunal Sankhe </b>, Sumit Kumar, and Garimella Ramamurthy <br>
-<i>IEEE CCNC'15</i>, Las Vegas, USA, January 2015. <b>[PDF]()</b>
+<i>IEEE CCNC'15</i>, Las Vegas, USA, January 2015. <b>[PDF](https://ieeexplore.ieee.org/abstract/document/7158089/)</b>
 
 <b>Cost effective restoration of wireless connectivity in disaster hit areas using OpenBTS</b> <br>
 <b> Kunal Sankhe </b>, Chandan Pradhan, Sumit Kumar, and Garimella Ramamurthy <br>
-<i>IEEE INDICON'14</i>, Pune, India, December 2014. <b>[PDF]()</b>
+<i>IEEE INDICON'14</i>, Pune, India, December 2014. <b>[PDF](https://ieeexplore.ieee.org/abstract/document/7030511/)</b>
 
 <b>Cognitive base station design for efficient spectrum utilization in cellular network</b> <br>
 Chandan Pradhan, <b> Kunal Sankhe </b>, Sumit Kumar, and Garimella Ramamurthy <br>
-<i>IEEE WOCN'14</i>, Hyderabad, India, September 2014. <b>[PDF]()</b>
+<i>IEEE WOCN'14</i>, Hyderabad, India, September 2014. <b>[PDF](https://ieeexplore.ieee.org/abstract/document/6923095/)</b>
 
 ## Journal/Magazine Publications
 <b>No Radio Left Behind: Radio Fingerprinting Through Deep Learning of Physical-Layer Hardware Impairments</b><br>
